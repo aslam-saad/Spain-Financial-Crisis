@@ -38,13 +38,13 @@ The Impact Of The Crisis
 
 The following plot shows Spain’s output gap, which represents the difference between the Country’s GDP and its potential GDP, in other words, the difference between how much the Country is growing and how much it should grow if it uses all of its available resources.
 
-<img src="spain2000_2016_files/figure-markdown_github/figure1-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure1-1.png" style="display: block; margin: auto;" />
 
 As the figure shows, before 2008, Spain had an inflationary gap. It was growing fast for a long period of time before the global crisis hit and pushed it into a deep recession. After almost a decade it started to recover again in 2018.
 
 However, as the the next figure shows, up to 2008, for a Country has a positive gap we see unexpected high rate of unemployment reached about 9% of labor forces.
 
-<img src="spain2000_2016_files/figure-markdown_github/figure2-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure2-1.png" style="display: block; margin: auto;" />
 
 As expected, when the Country shifted into the recessionary gap, as a result of GDP decreasing the unemployment was getting worse to reach its highest level ever (26%) in 2013.
 
@@ -54,11 +54,11 @@ In addition to this unusual high rate of unemployment, the public debt didn’t 
 
 Before 2008, during the inflation phase of the business cycle, the debt wasn’t risky; The debt was low, moreover it was going down to reach only 36% of GDP at 2007. The debt interest rate also was very low as a percentage of GDP(about 1.1% at 2007). On the other hand, after 2008, during the recession phase of the business cycle, the debt was going up fast to reach 100% of GDP at 2014 with a very high interest payment (about 3%).
 
-<img src="spain2000_2016_files/figure-markdown_github/figure3-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure3-1.png" style="display: block; margin: auto;" />
 
 Another important indicator of an economy's health is the current account balance, which indicates the difference between what a country saves and what it spends.
 
-<img src="spain2000_2016_files/figure-markdown_github/figure4-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure4-1.png" style="display: block; margin: auto;" />
 
 Here we see, in the period before 2012, Spain had a current account deficit that reached a maximum of 10% in 2007 (one of the biggest current account deficit in the world). As the figure shows, this happened because of the unusual high spending that exceeded 30%, which was a result of the Spanish real estate bubble(See more in the next section).
 
@@ -71,7 +71,7 @@ The sequence of wrong economic policies sometimes result in a deep crisis. First
 
 The following histogram represents the budget balance, which is the overall difference between government revenues and spending.
 
-<img src="spain2000_2016_files/figure-markdown_github/figure5-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure5-1.png" style="display: block; margin: auto;" />
 
 When the Country had an inflationary gap before 2008, during the last period of this business cycle expansion, the balance budget was in a surplus, in other words, the government revenues was bigger than its spending, which was an appropriate fiscal policy in order to decreasing the overheating growth.
 
@@ -79,7 +79,7 @@ At the business cycle recession from 2008, the government used an expansive fisc
 
 Unlike the fiscal policy, the monetary policy wasn’t expected. The following figure shows the real interest rate which equals the nominal interest rate minus the inflation rate.
 
-<img src="spain2000_2016_files/figure-markdown_github/figure6-1.png" style="display: block; margin: auto;" />
+<img src="spain2000_2016_files/figures/figure6-1.png" style="display: block; margin: auto;" />
 
 The red shaded area represents the area when the Country had an inflationary gap. The Country should have used a restrictive monetary policy by raising the interest rate. As a result, people and investors would tend to borrow less and spend less as well. This would result in slowing down the overheating economy. However, we see the interest rate was very low about 1%, and declined more to reach a value of -1%.
 
