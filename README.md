@@ -2,6 +2,7 @@
 
 The Spanish economic crisis, which began at 2006 and extended after the global financial crisis had hit at 2008, pushed Spain into its deepest recession of the democratic era.
 
+
 Data Collection:
 ----------------
 
@@ -33,6 +34,7 @@ The data contains 12 indicators:
 
 -   Recessionary or inflationary gaps (Output gap as a percentage of potential GDP).
 
+
 The Impact Of The Crisis
 ------------------------
 
@@ -63,6 +65,7 @@ Another important indicator of an economy's health is the current account balanc
 Here we see, in the period before 2012, Spain had a current account deficit that reached a maximum of 10% in 2007 (one of the biggest current account deficit in the world). As the figure shows, this happened because of the unusual high spending that exceeded 30%, which was a result of the Spanish real estate bubble(See more in the next section).
 
 After 2012, besides the sharp decline in spending after 2008, the savings raised again as before the crisis which results in registering a current account surplus starting from 2013.
+
 
 The Causes Of The Crisis
 ------------------------
