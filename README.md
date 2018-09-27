@@ -1,4 +1,4 @@
-# The Spain Financial Crisis
+# The Spanish Financial Crisis
 
 The Spanish economic crisis, which began at 2006 and extended after the global financial crisis had hit at 2008, pushed Spain into its deepest recession of the democratic era.
 
