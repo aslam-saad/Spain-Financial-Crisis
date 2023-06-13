@@ -1,70 +1,88 @@
-## Research Case: The Spanish Financial Crisis and its Impact on the Economy
+# Analyzing the Spanish Economic Crisis: Causes, Impact, and Recovery
 
-### Introduction
+The Spanish economic crisis, which began in 2006 and was exacerbated by the global financial crisis in 2008, pushed Spain into its deepest recession of the democratic era. By analyzing data on the Spanish economy from 2000 to 2018, we can gain insight into the sequences and causes of this financial crisis. In this analysis, we will explore various indicators to understand the impact of the crisis and identify the factors that led to its occurrence.
 
-The Spanish financial crisis, which originated in 2006 and was exacerbated by the global financial crisis in 2008, resulted in Spain's most severe recession in the democratic era. Analyzing data from 2000 to 2018 provides valuable insights into the causes and consequences of this crisis.
+## Data Collection
 
-### Research Objective
+To investigate the causes and consequences of the Spanish economic crisis, data was collected from reputable sources such as the Organisation for Economic Co-operation and Development (OECD) and the International Monetary Fund (IMF). The dataset includes 12 indicators covering key aspects of Spain's economy during the period from 2000 to 2018. These indicators are as follows:
 
-This research aims to examine the sequences and causes of the Spanish financial crisis by analyzing key economic indicators and identifying the impacts on the economy.
-
-### Data Collection
-
-Data was collected from reputable sources such as the Organisation for Economic Co-operation and Development (OECD) and the International Monetary Fund (IMF) for specific indicators related to Spain's economy from 2000 to 2018. The dataset includes the following 12 indicators:
-
-1. Time (Years between 2000 - 2018)
+1. Time (Years between 2000-2018)
 2. GDP Growth
 3. Unemployment Rate
 4. Short-term Interest Rate
 5. Headline or CPI Inflation Rate
-6. Total Investment as a percent of GDP
-7. Gross National Savings as a percent of GDP
-8. Current Account Balance as a percent of GDP
-9. Fiscal Deficit (General government net lending as a percentage of GDP)
-10. Fiscal Debt (Gross public debt; Maastricht criterion as a percentage of GDP)
-11. Debt Service (Net general government interest payments as a percentage of GDP)
-12. Recessionary or Inflationary Gaps (Output gap as a percentage of potential GDP)
+6. Total Investment as a Percentage of GDP
+7. Gross National Savings as a Percentage of GDP
+8. Current Account Balance as a Percentage of GDP
+9. Fiscal Deficit (General Government Net Lending as a Percentage of GDP)
+10. Fiscal Debt (Gross Public Debt; Maastricht criterion as a Percentage of GDP)
+11. Debt Service (Net General Government Interest Payments as a Percentage of GDP)
+12. Recessionary or Inflationary Gaps (Output Gap as a Percentage of Potential GDP)
 
-### The Impact of the Crisis
+## The Impact of the Crisis
 
-To understand the impact of the Spanish financial crisis, several key indicators were analyzed. Visualizations were created to provide a clearer representation of the data.
+### Output Gap and Unemployment
 
-#### Output Gap
+The output gap represents the difference between a country's actual GDP and its potential GDP. It indicates whether the economy is growing above or below its full capacity. The following chart illustrates Spain's output gap over the years:
 
-The output gap, which illustrates the difference between a country's actual GDP and its potential GDP, was examined. Prior to 2008, Spain had an inflationary gap, indicating rapid economic growth. However, the global crisis pushed the country into a deep recession. After nearly a decade, Spain began to recover in 2018.
+![Figure 1: Spain's Output Gap](figures/figure1-1.png)
 
-![Spain's Output Gap](figures/figure1-1.png)
+Before 2008, Spain experienced an inflationary gap, indicating rapid economic growth. However, the global crisis in 2008 pushed Spain into a deep recession, as evidenced by the negative output gap. The economy only started to recover in 2018 after almost a decade of downturn.
 
-#### Unemployment Rate
+During the period of positive output gap, the unemployment rate in Spain reached unexpected highs, as depicted in the following chart:
 
-The unemployment rate was analyzed in relation to the output gap. Prior to 2008, Spain experienced unexpectedly high rates of unemployment, reaching approximately 9% of the labor force while in a positive gap. During the recessionary gap, unemployment worsened, reaching its peak at 26% in 2013. From 2016 onwards, Spain's economy started recovering, resulting in a 10% decrease in unemployment over five years, reaching a rate of 15% in 2018.
+![Figure 2: Unemployment Rate in Spain](figures/figure2-1.png)
 
-![Unemployment Rate in Spain](figures/figure2-1.png)
+As expected, when Spain entered the recessionary gap, characterized by a decline in GDP, the unemployment rate surged to its highest level of 26% in 2013. However, from 2016 onwards, Spain's economy began a rapid recovery, with GDP growth reaching 3% annually and unemployment declining by approximately 10% over five years, ending at a rate of 15% in 2018.
 
-#### Public Debt
+### Public Debt and Current Account Balance
 
-The impact of the crisis on public debt was also assessed. Prior to 2008, during the inflation phase, the public debt was relatively low, reaching only 36% of GDP in 2007. However, after 2008, during the recession phase, the debt rapidly increased, peaking at 100% of GDP in 2014. The interest payment on the debt also surged during this period.
+Another critical indicator affected by the crisis was the public debt. Let's examine the evolution of Spain's public debt before and after the crisis:
 
-![Public Debt as Percentage of GDP](figures/figure3-1.png)
+![Figure 3: Spain's Public Debt](figures/figure3-1.png)
 
-#### Current Account Balance
+Before 2008, during the inflationary phase of the business cycle, Spain's public debt was relatively low, reaching a minimum of 36% of GDP in 2007. The interest payment on the debt was also low, accounting for only 1.1% of GDP in 2007. However, following the crisis, the public debt skyrocketed, peaking at 100% of GDP in 2014, accompanied by a significant increase in interest payments, reaching around 3%.
 
-The current account balance, reflecting the difference between savings and spending, was examined. Before 2012, Spain had a significant current account deficit, reaching a maximum of 10% in 2007. This deficit was largely attributed to excessive spending, fueled by the Spanish real estate bubble. After 2012, the current account balance shifted to a surplus as spending declined and savings increased.
+The current account balance, which reflects the difference between a country's savings and spending, is another vital indicator of
 
-![Spain's Current Account Balance](figures/figure4-1.png)
+ an economy's health. Let's examine Spain's current account balance over time:
 
-### The Causes of the Crisis
+![Figure 4: Spain's Current Account Balance](figures/figure4-1.png)
 
-Analyzing the data allowed for an examination of the fiscal and monetary policies implemented during different phases of the business cycle, shedding light on the causes of the crisis.
+Before 2012, Spain experienced a persistent current account deficit, with a maximum deficit of 10% in 2007, making it one of the largest in the world. The high deficit was primarily driven by excessive spending, particularly in the real estate sector, which contributed to the Spanish real estate bubble. However, after 2012, the current account balance improved, as spending declined and savings increased, resulting in a current account surplus from 2013 onwards.
 
-#### Fiscal Policy
+## The Causes of the Crisis
 
-The budget balance, representing the difference between government revenues and spending, was analyzed. Before 2008, during the inflationary gap, the budget balance was in surplus, indicating appropriate fiscal policies aimed at curbing overheating growth. During the recessionary phase, expansive fiscal policies were implemented to stimulate growth and overcome the deep recession.
+To understand the causes of the Spanish economic crisis, we need to analyze the appropriateness of fiscal and monetary policies during different phases of the business cycle.
 
-#### Monetary Policy
+### Fiscal Policy: Budget Balance
 
-The real interest rate, calculated by subtracting the inflation rate from the nominal interest rate, was assessed. During the inflationary gap, a restrictive monetary policy should have been adopted, including an increase in interest rates. However, the interest rates in Spain remained low, even reaching negative values, which contributed to the formation of the Spanish real estate bubble.
+The budget balance, representing the overall difference between government revenues and spending, provides insights into fiscal policy effectiveness. Let's examine Spain's budget balance over time:
 
-### Conclusion
+![Figure 5: Spain's Budget Balance](figures/figure5-1.png)
 
-By analyzing data from the Spanish economy between 2000 and 2018, valuable insights were gained regarding the sequences and causes of the Spanish financial crisis. The study revealed two distinct economic situations: inflation before 2008 and a deep recession thereafter. The low interest rates and a booming real estate market led to the Spanish real estate bubble, which was followed by the global financial crisis. The crisis resulted in a significant increase in public debt, a surge in unemployment rates, and a decline in economic growth. However, after 2016, the Spanish economy began to recover.
+During the inflationary gap before 2008, the budget balance showed a surplus, indicating that government revenues exceeded spending. This fiscal policy was appropriate to mitigate the overheating growth during the expansion phase of the business cycle.
+
+During the recession following 2008, Spain adopted an expansionary fiscal policy to stimulate economic growth and recover from the deep recession.
+
+### Monetary Policy: Real Interest Rate
+
+The real interest rate, calculated as the nominal interest rate minus the inflation rate, helps us assess the appropriateness of monetary policy. Let's examine Spain's real interest rate over time:
+
+![Figure 6: Spain's Real Interest Rate](figures/figure6-1.png)
+
+The red shaded area in the chart represents the period when Spain had an inflationary gap. To address this situation, the country should have implemented a restrictive monetary policy by raising interest rates. Higher interest rates would have discouraged borrowing and spending, thereby slowing down the overheating economy. However, Spain maintained very low interest rates of around 1% during this period and even decreased them further, reaching a value of -1%.
+
+The combination of low interest rates and low real estate prices incentivized excessive borrowing and spending, leading to the formation of the Spanish real estate bubble in 2007. It is important to note that Spain does not have control over its monetary policy, as it is determined by the European Central Bank (ECB) for the entire Eurozone, including Spain.
+
+## Conclusion
+
+Analyzing the data on the Spanish economy from 2000 to 2018 provides valuable insights into the sequences and causes of the Spanish financial crisis. The analysis reveals two distinct economic phases: inflationary growth before 2008 and a deep recession thereafter. During the inflationary phase, Spain experienced high inflation rates coupled with very low interest rates, which contributed to the formation of the Spanish real estate bubble in 2007. The subsequent global financial crisis in 2008 further exacerbated the crisis, pushing the economy into a deep recession that lasted for almost a decade.
+
+The crisis had significant impacts on various indicators, including public debt and unemployment. Spain's public debt and debt service increased sharply after the crisis, with the debt reaching 100% of GDP in 2014. Unemployment soared to a historic rate of approximately 27% following the global crisis. However, the economy started to recover from 2016 onwards, with GDP growth rates of around 3% and a gradual decline in unemployment.
+
+By analyzing the appropriateness of fiscal and monetary policies during different phases of the business cycle, we found that Spain implemented a surplus budget balance before the crisis and adopted an expansionary fiscal policy to counter the recession. However, the monetary policy was not as
+
+ expected, with persistently low interest rates during the inflationary gap, contributing to the formation of the real estate bubble.
+
+Overall, this analysis highlights the importance of effective fiscal and monetary policies in maintaining economic stability and avoiding severe crises.
