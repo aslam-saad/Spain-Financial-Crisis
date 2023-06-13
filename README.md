@@ -51,9 +51,7 @@ The impact of the crisis on public debt was also assessed. Prior to 2008, during
 
 The current account balance, reflecting the difference between savings and spending, was examined. Before 2012, Spain had a significant current account deficit, reaching a maximum of 10% in 2007. This deficit was largely attributed to excessive spending, fueled by the Spanish real estate bubble. After 2012, the current account balance shifted to a surplus as spending declined and savings increased.
 
-![Spain's Current Account Balance](figures/figure
-
-4-1.png)
+![Spain's Current Account Balance](figures/figure4-1.png)
 
 ### The Causes of the Crisis
 
