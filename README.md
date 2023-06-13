@@ -43,9 +43,7 @@ Another critical indicator affected by the crisis was the public debt. Let's exa
 
 Before 2008, during the inflationary phase of the business cycle, Spain's public debt was relatively low, reaching a minimum of 36% of GDP in 2007. The interest payment on the debt was also low, accounting for only 1.1% of GDP in 2007. However, following the crisis, the public debt skyrocketed, peaking at 100% of GDP in 2014, accompanied by a significant increase in interest payments, reaching around 3%.
 
-The current account balance, which reflects the difference between a country's savings and spending, is another vital indicator of
-
- an economy's health. Let's examine Spain's current account balance over time:
+The current account balance, which reflects the difference between a country's savings and spending, is another vital indicator of an economy's health. Let's examine Spain's current account balance over time:
 
 ![Figure 4: Spain's Current Account Balance](figures/figure4-1.png)
 
@@ -81,8 +79,6 @@ Analyzing the data on the Spanish economy from 2000 to 2018 provides valuable in
 
 The crisis had significant impacts on various indicators, including public debt and unemployment. Spain's public debt and debt service increased sharply after the crisis, with the debt reaching 100% of GDP in 2014. Unemployment soared to a historic rate of approximately 27% following the global crisis. However, the economy started to recover from 2016 onwards, with GDP growth rates of around 3% and a gradual decline in unemployment.
 
-By analyzing the appropriateness of fiscal and monetary policies during different phases of the business cycle, we found that Spain implemented a surplus budget balance before the crisis and adopted an expansionary fiscal policy to counter the recession. However, the monetary policy was not as
-
- expected, with persistently low interest rates during the inflationary gap, contributing to the formation of the real estate bubble.
+By analyzing the appropriateness of fiscal and monetary policies during different phases of the business cycle, we found that Spain implemented a surplus budget balance before the crisis and adopted an expansionary fiscal policy to counter the recession. However, the monetary policy was not as expected, with persistently low interest rates during the inflationary gap, contributing to the formation of the real estate bubble.
 
 Overall, this analysis highlights the importance of effective fiscal and monetary policies in maintaining economic stability and avoiding severe crises.
