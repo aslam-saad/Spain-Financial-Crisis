@@ -70,6 +70,3 @@ The real interest rate, calculated by subtracting the inflation rate from the no
 ### Conclusion
 
 By analyzing data from the Spanish economy between 2000 and 2018, valuable insights were gained regarding the sequences and causes of the Spanish financial crisis. The study revealed two distinct economic situations: inflation before 2008 and a deep recession thereafter. The low interest rates and a booming real estate market led to the Spanish real estate bubble, which was followed by the global financial crisis. The crisis resulted in a significant increase in public debt, a surge in unemployment rates, and a decline in economic growth. However, after 2016, the Spanish economy began to recover.
-```
-
-Please note that in the above Markdown format, the figures are referred to as `figure1-1.png`, `figure2-1.png`, `figure3-1.png`, and `figure4-1.png`. You'll need to replace these placeholders with the actual file names of the respective chart images you want to include.
